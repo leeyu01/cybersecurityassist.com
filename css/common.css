@@ -1,3 +1,7 @@
+.font-sb {
+  font-family: "SF_Pro_Display_Semibold", sans-serif;
+}
+
 a, a:link, a:visited {
   color: #06c;
   text-decoration: none;
